@@ -7,7 +7,7 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>React</li>
-  <li>Node</li>
+  <li>Python</li>
   <li>SQL Server</li>
 </ul>
 
