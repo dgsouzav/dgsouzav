@@ -6,7 +6,8 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>React.js</li>
+  <li>Node.js</li>
   <li>PHP</li>
   <li>SQL Server</li>
 </ul>
