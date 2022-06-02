@@ -1,18 +1,14 @@
 <div>
-    <h1 align="center"> 
+    <h1 align="left"> 
       Olá! Meu nome é Diogo :trollface:
     </h1>
-  <img align="left" width="200" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
-
-  <br>
-  <br>
-  <br>
-  <br>
 </div>  
 
   ##
 
 <div align="center">
+  <img align="left" width="325" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
+  <br>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsouzav&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
