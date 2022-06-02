@@ -1,5 +1,7 @@
-# Olá! Meu nome é Diogo :trollface:
 <div>
+    <h1> 
+      Olá! Meu nome é Diogo :trollface:
+    </h1>
   <img align="right" width="200" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
 </div>  
 
