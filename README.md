@@ -1,6 +1,5 @@
 # Olá! Meu nome é Diogo :trollface:
 <div align="center">
-  <a href="https://github.com/dgsouzav">
   <img align="center" alt="HTML" height="150" width="350" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsouzav&layout=compact&langs_count=7&theme=dark"/>
 </div>
