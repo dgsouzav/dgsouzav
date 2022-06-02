@@ -1,8 +1,8 @@
 <div>
-    <h1> 
+    <h1 align="center"> 
       Olá! Meu nome é Diogo :trollface:
     </h1>
-  <img align="right" width="200" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
+  <img align="left" width="200" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
 </div>  
 
 <div align="center">
