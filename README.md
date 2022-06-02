@@ -4,8 +4,6 @@
     </h1>
 </div>  
 
-  ##
-
 <div align="center">
   <img align="left" width="325" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
   <br>
