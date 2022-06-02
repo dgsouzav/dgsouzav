@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">
-  <img align="left" width="325" margin="10px" padding="10px"src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
+  <img align="left" width="325" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
   <br>
   <img align="right width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsouzav&layout=compact&langs_count=7&theme=dark"/>
 </div>
