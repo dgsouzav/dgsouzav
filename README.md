@@ -3,6 +3,11 @@
       Olá! Meu nome é Diogo :trollface:
     </h1>
   <img align="left" width="200" src="https://raw.githubusercontent.com/dgsouzav/dgsouzav/main/giphy.gif">
+
+  <br>
+  <br>
+  <br>
+  <br>
 </div>  
 
   ##
