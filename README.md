@@ -13,6 +13,21 @@ Procuro sempre estar atualizado sobre o mercado de tecnologia e estar sempre apr
 - Microsoft SQL Server
 - MySQL
 - MongoDB
+- Git
+- Redes
+- Infraestrutura
 
 ## Soft Skills:
+
+- Resolução de problemas
+- Adaptabilidade
+- Pensamento crítico
+- Criatividade
+- Trabalho em equipe
+- Entregas rápidas
+- Gestão de requisitos
+- Atendimento ao cliente
+- Comunicação
+
+
 
