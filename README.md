@@ -1,5 +1,5 @@
 # Olá, nome é Diogo!
-Sou um estudante de Análise e Desenvolvimento de Sistemas e estou finalizando a graduaçãoy.
+Sou um estudante de Análise e Desenvolvimento de Sistemas e estou finalizando a graduação.
 Resolver problemas e não criar novos! 
 
 ## Hard skills:
