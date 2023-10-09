@@ -1,8 +1,10 @@
 # Olá, nome é Diogo!
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou terminando o curso. 
+Sou um estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso.
+Procuro sempre estar atualizado sobre o mercado de tecnologia e estar sempre aprofundando meu conhecimento dentro daquilo que acredito ser oque mais é necessário, isso inclue também estar por dentro de tudo que está em volta.
 
-## Minhas habilidades incluem:
+## Hard skills:
 
+- API REST
 - C#
 - JavaScript
 - HTML
@@ -11,3 +13,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou terminando o cur
 - Microsoft SQL Server
 - MySQL
 - MongoDB
+
+## Soft Skills:
+
