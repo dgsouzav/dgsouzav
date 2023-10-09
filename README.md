@@ -1,6 +1,6 @@
 # Olá, nome é Diogo!
-Sou um estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso.
-Procuro sempre estar atualizado sobre o mercado de tecnologia e estar sempre aprofundando meu conhecimento dentro daquilo que acredito ser oque mais é necessário, isso inclue também estar por dentro de tudo que está em volta.
+Sou um estudante de Análise e Desenvolvimento de Sistemas e estou finalizando a graduaçãoy.
+Resolver problemas e não criar novos! 
 
 ## Hard skills:
 
